@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567179258 source:d:\学习数据存放区\mystudysapce\a星算法\main.cpp
+	<iostream>
+	<queue>
+	<list>
+	<cmath>
+	<climits>
+	<windows.h>
+
